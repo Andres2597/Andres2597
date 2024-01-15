@@ -19,4 +19,4 @@
 
 ### GitHub Activity
 
-![Snake animation](https://github.com/ubiratan-motta/ubiratan-motta/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Andres2597/Andres2597/blob/output/github-contribution-grid-snake.svg)
